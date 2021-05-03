@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neperz
-- 👀 I’m interested in build solutions to automate the world
-- 🌱 I’m currently learning CQRS, performance tuning.
-- 💞️ I’m looking to collaborate on any project
+- 👀 I'm interested in building solutions to automate the world
+- 🌱 I'm currently learning CQRS, performance tuning.
+- 💞️ I'm looking to collaborate on any project
 - 📫 How to reach me just call me here or by e-mail neperz@protonmail.com
 
 <!---
